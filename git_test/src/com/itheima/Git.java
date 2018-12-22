@@ -22,4 +22,8 @@ public class Git {
         System.out.println("新克隆的 git_test");
     }
 
+    public void test4(){
+        System.out.println("git_test 添加了新方法");
+    }
+
 }
