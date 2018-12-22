@@ -22,8 +22,4 @@ public class Git {
         System.out.println("新克隆的 git_test");
     }
 
-    public void test3(){
-        System.out.println("myself_git你能看到吗");
-    }
-
 }
