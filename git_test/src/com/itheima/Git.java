@@ -26,6 +26,9 @@ public class Git {
         System.out.println("git_test 添加了新方法");
         System.out.println("合并了test5方法");
     }
-
+    public void test5(){
+        System.out.println("git_test 添加了新方法");
+        System.out.println("合并了test5方法");
+    }
 
 }
